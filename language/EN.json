@@ -1,3 +1,4 @@
+
 {
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
@@ -15,7 +16,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -306,7 +307,7 @@
         "web": {
             "SPEEDTEST_DESC": "Measures Download and Upload speed.",
             "SPEEDTESTING": "```Running speed test...```",
-            "SPEEDTEST_RESULT": "*Speed ​​test completed!*",
+            "SPEEDTEST_RESULT": "*Speed   test completed!*",
             "UPLOAD": "Upload",
             "DOWNLOAD": "Download",
             "PING_DESC": "Measures your ping.",
