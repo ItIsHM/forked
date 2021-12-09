@@ -49,8 +49,8 @@ r_text[39] = "Nee padicha school la na headmaster Aada Ee Njan";
 r_text[40] = "Vazhkai Oru Vattam. Inga Jeikkaravan Thopan, Thokaravan Jeipaan";
 r_text[41] = "Twinkle Twinkle Little Star";
 r_text[42] = "Evulavo Panittom, Edha Panamattoma";
-r_text[43] = "Darshanaaaaaaaa"
-r_text[44] = "Proudly Iam Saying \n My Creator Is HM Ser \s Entha Mone Fear Aayo"
+r_text[43] = "Darshanaaaaaaaa";
+r_text[44] = "Proudly Iam Saying \n My Creator Is HM Ser \s Entha Mone Fear Aayo";
 var i = Math.floor(45*Math.random())
 
 await message.sendMessage(r_text[i]);
